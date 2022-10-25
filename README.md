@@ -7,7 +7,7 @@
 **1. Clone the application**
 
 ```bash
-https://github.com/givanthak/spring-boot-rest-api-tutorial.git
+https://github.com/d1av/springboot-h2-API.git
 ```
 
 **2. Create Mysql database**
